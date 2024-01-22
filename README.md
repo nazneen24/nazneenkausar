@@ -8,7 +8,7 @@ Key Skills:
 Problem-solving , attention to detail, effective communicator, analytical skills, effective time management.
 
 Softwares:
-Advanced Excel
-Data Visualisation: Microsoft Power BI, Tableau
-Coding: SQL, Python, R Studio
-Database management: Microsoft Access, SQL Server
+Advanced Excel.
+Data Visualisation: Microsoft Power BI, Tableau.
+Coding: SQL, Python, R Studio.
+Database management: Microsoft Access, SQL Server.
