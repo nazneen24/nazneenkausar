@@ -4,10 +4,10 @@ Currently in the final stages of Digital Skills Bootcamp at Just IT to consolida
 
 Seeking to advance my career with an Entry level role into the field of Data Analytics. 
 
-Key Skills
+Key Skills:
 Problem-solving , attention to detail, effective communicator, analytical skills, effective time management.
 
-Softwares
+Softwares:
 Advanced Excel
 Data Visualisation: Microsoft Power BI, Tableau
 Coding: SQL, Python, R Studio
